@@ -84,6 +84,10 @@ const rizki = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiRamadha20&theme=black-arch&hide_border=true" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/RizkiRamadha20/RizkiRamadha20/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 ## 🚀 Featured Projects
 
 <div align="center">
