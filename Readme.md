@@ -57,11 +57,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rineta2&show_icons=true&theme=radical" alt="Rizki's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkiRamadha20&show_icons=true&theme=radical" alt="Rizki's GitHub Stats"/>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rineta2&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiRamadha20&theme=radical" alt="GitHub Streak"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rineta2&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiRamadha20&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -76,8 +76,8 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 [**Space Digital**](https://github.com/Rineta2/space-digitalia) – A modern digital space platform
-- 🔹 [**My Portfolio**](https://github.com/Rineta2/my-portofolio) – Personal portfolio to showcase my work
+- 🔹 [**Space Digital**](https://github.com/RizkiRamadha20/space-digitalia) – A modern digital space platform
+- 🔹 [**My Portfolio**](https://github.com/RizkiRamadha20/my-portofolio) – Personal portfolio to showcase my work
 
 ---
 
@@ -86,11 +86,11 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rr8027896@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizki-ramadhan12/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rzkir.20/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rineta2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RizkiRamadha20)
 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Rineta2&icon=0&color=0" alt="Profile Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=RizkiRamadha20&icon=0&color=0" alt="Profile Views"/>
 </div>
 # RizkiRamadhan20
