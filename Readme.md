@@ -73,32 +73,6 @@ const rizki = {
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RizkiRamadha20&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rizki Ramadhan github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiRamadha20&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiRamadha20&theme=black-arch&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/RizkiRamadha20/RizkiRamadha20/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/RizkiRamadha20/space-digitalia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkiRamadha20&repo=space-digitalia&theme=radical" />
-  </a>
-  <a href="https://github.com/RizkiRamadha20/my-portofolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RizkiRamadha20&repo=my-portofolio&theme=radical" />
-  </a>
-</div>
-
 ## 🌱 Currently Learning
 
 <div align="center">
