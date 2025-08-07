@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size242&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=100&lines=Hello+World%2C+I'm+Rizki+Ramadhan;Full-Stack+Web+Developer+%7C+Freelancer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=100&lines=Hello+World%2C+I'm+Rizki+Ramadhan;Full-Stack+Web+Developer+%7C+Freelancer+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
