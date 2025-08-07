@@ -47,6 +47,7 @@ I'm a **full-stack web developer** and **freelancer** based in the beautiful cit
 ### ⚡ My Expertise
 
 - 🎨 **Frontend Development** - React, Next.js, TypeScript, Tailwind CSS
+- 📱 **Mobile Development** - React Native, Expo for cross-platform apps
 - ⚡ **Performance Optimization** - Lightning-fast, efficient applications
 - 🔧 **Full-Stack Solutions** - End-to-end development expertise
 - 📱 **Modern Tech Stack** - Latest frameworks and best practices
@@ -67,6 +68,12 @@ I'm a **full-stack web developer** and **freelancer** based in the beautiful cit
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+<div align="center">
+  <h3>📱 Mobile Development</h3>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
 </div>
 
 <div align="center">
@@ -99,8 +106,8 @@ I'm a **full-stack web developer** and **freelancer** based in the beautiful cit
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizkiramadhan20&repo=portofolio&theme=aura&hide_border=true" width="100%" alt="Portfolio" />
         </a>
         <p><strong>Personal portfolio website</strong> showcasing my work and skills with modern design and responsive layout.</p>
-        <p><strong>Tech Stack:</strong> TypeScript, React, Next.js, Tailwind CSS</p>
-        <p><strong>Features:</strong> Responsive design, modern UI, performance optimized</p>
+        <p><small><strong>Tech Stack:</strong> TypeScript, React, Next.js, Tailwind CSS</small></p>
+        <p><small><strong>Features:</strong> Responsive design, modern UI, performance optimized</small></p>
       </div>
     </td>
     <td width="50%">
@@ -110,8 +117,8 @@ I'm a **full-stack web developer** and **freelancer** based in the beautiful cit
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizkiramadhan20&repo=riznime&theme=aura&hide_border=true" width="100%" alt="Riznime" />
         </a>
         <p><strong>Anime streaming platform</strong> with modern UI and seamless user experience.</p>
-        <p><strong>Tech Stack:</strong> TypeScript, React, Next.js</p>
-        <p><strong>Live Demo:</strong> <a href="https://riznime.vercel.app" target="_blank">riznime.vercel.app</a></p>
+        <p><small><strong>Tech Stack:</strong> TypeScript, React, Next.js</small></p>
+        <p><small><strong>Live Demo:</strong> <a href="https://riznime.vercel.app" target="_blank">riznime.vercel.app</a></small></p>
       </div>
     </td>
   </tr>
@@ -123,8 +130,8 @@ I'm a **full-stack web developer** and **freelancer** based in the beautiful cit
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizkiramadhan20&repo=space-digitalia&theme=aura&hide_border=true" width="100%" alt="Space Digitalia" />
         </a>
         <p><strong>Digital agency website</strong> with professional design and modern features.</p>
-        <p><strong>Tech Stack:</strong> TypeScript, React, Next.js</p>
-        <p><strong>Live Demo:</strong> <a href="https://spacedigitalia.my.id" target="_blank">spacedigitalia.my.id</a></p>
+        <p><small><strong>Tech Stack:</strong> TypeScript, React, Next.js</small></p>
+        <p><small><strong>Live Demo:</strong> <a href="https://spacedigitalia.my.id" target="_blank">spacedigitalia.my.id</a></small></p>
       </div>
     </td>
     <td width="50%">
@@ -134,8 +141,8 @@ I'm a **full-stack web developer** and **freelancer** based in the beautiful cit
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rizkiramadhan20&repo=jakarta-mengabdi&theme=aura&hide_border=true" width="100%" alt="Jakarta Mengabdi" />
         </a>
         <p><strong>Government service platform</strong> designed for public service efficiency.</p>
-        <p><strong>Tech Stack:</strong> TypeScript, React, Next.js</p>
-        <p><strong>Features:</strong> Public service optimization, modern interface</p>
+        <p><small><strong>Tech Stack:</strong> TypeScript, React, Next.js</small></p>
+        <p><small><strong>Features:</strong> Public service optimization, modern interface</small></p>
       </div>
     </td>
   </tr>
