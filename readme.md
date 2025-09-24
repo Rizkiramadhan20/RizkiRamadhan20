@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🤞 Rizki Ramadhan 🧐
+🤞 Rizki Ramadhan 🧐
 
-# 👇
+👇
 
 **Full-Stack Developer** • **Freelancer** • **Tech Enthusiast**
 
